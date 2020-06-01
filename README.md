@@ -1,2 +1,2 @@
 # eventsApp
-An event management app built with angualar 
+An event management app built with angular 
